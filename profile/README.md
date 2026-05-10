@@ -111,7 +111,7 @@ Codebases are structured into isolated modules for:
 
 ## minecraft
 
-![](https://raw.githubusercontent.com/oslcJS/.github/main/assets/12.gif)
+![](https://raw.githubusercontent.com/oslcJS/.github/main/assets/14.gif)
 
 A large portion of projects target Minecraft server development, including:
 
